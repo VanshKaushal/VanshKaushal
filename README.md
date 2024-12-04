@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanshKaushal
-- 👀 I’m interested in Football and </>
+- 👀 I’m interested </>
 - 🌱 I’m currently learning Java/JavaScript...
 - 💞️ I’m looking to collaborate on Experience gaining projects
 - 📫 How to reach me LinkedIn/Insta/ GitHub.
